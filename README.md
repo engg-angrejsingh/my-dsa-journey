@@ -1,25 +1,25 @@
-# Pattern Programs (C++)
+# My DSA Journey 🚀
 
-This folder contains C++ implementations of various pattern printing exercises. Each program demonstrates how to construct a different pattern using loops.
+This repository contains my **C++ Data Structures and Algorithms (DSA)** practice code.  
+It’s my personal learning space where I practice patterns, algorithms, and other DSA topics while improving my problem-solving skills.
 
-##  Patterns Included
+---
 
-| No. | File Name                         | Description                                |
-|-----|-----------------------------------|--------------------------------------------|
-| 01  | `01_solid_square.cpp`             | Prints a solid square of stars (N × N)      |
-| 02  | `02_right_triangle.cpp`           | Prints a right-angled triangle of stars     |
-| 03  | `03_number_triangle.cpp`          | Row number triangle                         |
-| 04  | `04_number_increasing_triangle.cpp` | Prints numbers 1 to N in each row         |
-| 05  | `05_row_number_triangle.cpp`      | Prints current row number multiple times    |
-| 06  | `06_decreasing_triangle.cpp`      | Prints a decreasing triangle (inverted)     |
-| 07  | `07_star_pyramid.cpp`             | Builds a centered star pyramid              |
-| 08  | `08_inverted_star_pyramid.cpp`    | Prints the inverted version of the pyramid  |
+## 📂 Folder Structure
 
-> Feel free to adjust numbering or filenames as needed.
+| Folder | Description |
+|---------|-------------|
+| **01_Patterns/** | C++ programs for basic pattern problems (stars, numbers, pyramids, etc.) |
+| **02_Arrays/** *(coming soon)* | Solutions and practice problems on arrays |
+| **03_Strings/** *(coming soon)* | String manipulation and algorithms |
+| **04_Recursion/** *(coming soon)* | Recursive problem-solving exercises |
+| **05_Sorting_Searching/** *(coming soon)* | Implementation of sorting and searching algorithms |
 
-##  How to Run
+---
 
-To compile and run any of these programs, use:
+## 🛠 How to Run the Code
+
+Compile and run any file using `g++`:
 ```bash
-g++ <filename>.cpp -o <output_name>
-./<output_name>
+g++ <filename>.cpp -o output
+./output
