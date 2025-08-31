@@ -19,6 +19,7 @@ int main() {
     // Ask user for input
     cout << "Enter the size of the square: ";
     cin >> n;
+    cout << endl;
 
     // Call the function to print the pattern
     solidSquare(n);
