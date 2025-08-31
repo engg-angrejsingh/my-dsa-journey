@@ -1,0 +1,21 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore compiled binary files
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore temporary or log files
+*.log
+*.tmp
+*.bak
+
+# Ignore input/output files generated during testing
+input.txt
+output.txt
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
