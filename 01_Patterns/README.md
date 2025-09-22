@@ -25,12 +25,17 @@ Each program demonstrates how to construct a different pattern using loops.
 | 16   | `16_CharRepeatTriangle.cpp`             | Prints rows with repeated characters per row          |
 | 17   | `17_AlphabetPyramid.cpp`                | Builds a centered alphabet pyramid (A-B-C pattern)    |
 | 18   | `18_AlphabetStaircase.cpp`              | Prints a right-aligned alphabet staircase pattern     |
+| 19   | `19_Diamond.cpp`                        | Prints a classic centered diamond star pattern       |
+| 20   | `20_HollowSquare.cpp`                   | Prints a hollow square of stars (N × N)              |
+| 21   | `21_Butterfly.cpp`                      | Prints a butterfly star pattern                       |
+| 22   | `22_ConcentricSquare.cpp`               | Prints a concentric number square pattern             |
 
 ---
 
 ## How to Run
 
 To compile and run any of these programs:
+
 ```bash
 g++ <filename>.cpp -o <output_name>
 ./<output_name>
