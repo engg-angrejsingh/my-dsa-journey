@@ -6,7 +6,7 @@
 *.out
 *.o
 *.obj
-
+.giitignore
 # Ignore temporary or log files
 *.log
 *.tmp
@@ -15,7 +15,7 @@
 # Ignore input/output files generated during testing
 input.txt
 output.txt
-
+ganerator.cpp
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
