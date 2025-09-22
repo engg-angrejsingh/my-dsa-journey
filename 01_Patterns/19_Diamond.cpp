@@ -29,7 +29,7 @@ void diamond(int n)
         cout << endl;
     }
 
-    space -= 2;
+    space = 2 * n -2;
     // Lower half of the diamond
     for (int i = 1; i <= n; i++) {
         // Print increasing stars (left side)
