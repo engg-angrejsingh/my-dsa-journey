@@ -10,7 +10,7 @@ It’s my personal learning space where I practice patterns, algorithms, and oth
 | Folder | Description |
 |---------|-------------|
 | **01_Patterns/** | C++ programs for basic pattern problems (stars, numbers, pyramids, etc.) |
-| **02_Arrays/** *(coming soon)* | Solutions and practice problems on arrays |
+| **02_Arrays/** | Solutions and practice problems on arrays |
 | **03_Strings/** *(coming soon)* | String manipulation and algorithms |
 | **04_Recursion/** *(coming soon)* | Recursive problem-solving exercises |
 | **05_Sorting_Searching/** *(coming soon)* | Implementation of sorting and searching algorithms |
